@@ -1,0 +1,6 @@
+# 运行时数据（账号/密钥/SQLite/学习日志），不入库
+data/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
