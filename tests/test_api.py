@@ -61,7 +61,7 @@ def test_login_wrong_password(client):
 
 
 def test_login_unknown_user(client):
-    r = client.post("/api/login", json={"user": "nobody", "password": "__REDACTED__"})
+    r = client.post("/api/login", json={"user": "nobody", "password": "whatever"})
     assert r.status_code == 401
     assert r.json() == {"detail": "用户名或密码错误"}
 
