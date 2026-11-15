@@ -1,0 +1,4090 @@
+[
+ {
+  "id": "xx-001",
+  "stage": "小学",
+  "grade": "一年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言古诗",
+  "title": "咏鹅",
+  "author": "骆宾王",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "白毛浮绿水，红掌拨清波。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-002",
+  "stage": "小学",
+  "grade": "一年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "乐府",
+  "title": "江南",
+  "author": "佚名",
+  "dynasty": "汉",
+  "from": "《乐府诗集》",
+  "quotes": [
+   "江南可采莲，莲叶何田田。"
+  ],
+  "note": "汉乐府民歌，郭茂倩《乐府诗集》辑"
+ },
+ {
+  "id": "xx-003",
+  "stage": "小学",
+  "grade": "一年级上册（2024修订前）",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "画",
+  "author": "佚名",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "远看山有色，近听水无声。"
+  ],
+  "note": "作者传为王维，存疑；2024修订已从教材删除，留作拓展练习"
+ },
+ {
+  "id": "xx-004",
+  "stage": "小学",
+  "grade": "一年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "悯农（其二）",
+  "author": "李绅",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "谁知盘中餐，粒粒皆辛苦。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-005",
+  "stage": "小学",
+  "grade": "一年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言古诗",
+  "title": "古朗月行（节选）",
+  "author": "李白",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "小时不识月，呼作白玉盘。"
+  ],
+  "note": "节选自原诗前四句，原诗为乐府旧题"
+ },
+ {
+  "id": "xx-006",
+  "stage": "小学",
+  "grade": "一年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "风",
+  "author": "李峤",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "过江千尺浪，入竹万竿斜。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-007",
+  "stage": "小学",
+  "grade": "一年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "春晓",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "夜来风雨声，花落知多少。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-008",
+  "stage": "小学",
+  "grade": "一年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "赠汪伦",
+  "author": "李白",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "桃花潭水深千尺，不及汪伦送我情。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-009",
+  "stage": "小学",
+  "grade": "一年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "静夜思",
+  "author": "李白",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "举头望明月，低头思故乡。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-010",
+  "stage": "小学",
+  "grade": "一年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "寻隐者不遇",
+  "author": "贾岛",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "只在此山中，云深不知处。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-011",
+  "stage": "小学",
+  "grade": "一年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "池上",
+  "author": "白居易",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "小娃撑小艇，偷采白莲回。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-012",
+  "stage": "小学",
+  "grade": "一年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "小池",
+  "author": "杨万里",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "小荷才露尖尖角，早有蜻蜓立上头。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-013",
+  "stage": "小学",
+  "grade": "一年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "画鸡",
+  "author": "唐寅",
+  "dynasty": "明",
+  "from": "",
+  "quotes": [
+   "平生不敢轻言语，一叫千门万户开。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-014",
+  "stage": "小学",
+  "grade": "二年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "登鹳雀楼",
+  "author": "王之涣",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "欲穷千里目，更上一层楼。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-015",
+  "stage": "小学",
+  "grade": "二年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "望庐山瀑布",
+  "author": "李白",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "飞流直下三千尺，疑是银河落九天。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-016",
+  "stage": "小学",
+  "grade": "二年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "江雪",
+  "author": "柳宗元",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "孤舟蓑笠翁，独钓寒江雪。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-017",
+  "stage": "小学",
+  "grade": "二年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "夜宿山寺",
+  "author": "李白",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "危楼高百尺，手可摘星辰。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-018",
+  "stage": "小学",
+  "grade": "二年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "乐府",
+  "title": "敕勒歌",
+  "author": "佚名",
+  "dynasty": "北朝",
+  "from": "《乐府诗集》",
+  "quotes": [
+   "天苍苍，野茫茫，风吹草低见牛羊。"
+  ],
+  "note": "北朝民歌，郭茂倩《乐府诗集》辑（原为鲜卑语，译为汉语）"
+ },
+ {
+  "id": "xx-019",
+  "stage": "小学",
+  "grade": "二年级上册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "小儿垂钓",
+  "author": "胡令能",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "路人借问遥招手，怕得鱼惊不应人。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-020",
+  "stage": "小学",
+  "grade": "二年级上册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "梅花",
+  "author": "王安石",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "遥知不是雪，为有暗香来。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-021",
+  "stage": "小学",
+  "grade": "二年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "村居",
+  "author": "高鼎",
+  "dynasty": "清",
+  "from": "",
+  "quotes": [
+   "儿童散学归来早，忙趁东风放纸鸢。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-022",
+  "stage": "小学",
+  "grade": "二年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "咏柳",
+  "author": "贺知章",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "不知细叶谁裁出，二月春风似剪刀。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-023",
+  "stage": "小学",
+  "grade": "二年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "草（赋得古原草送别·节选）",
+  "author": "白居易",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "野火烧不尽，春风吹又生。"
+  ],
+  "note": "节选自《赋得古原草送别》前四句"
+ },
+ {
+  "id": "xx-024",
+  "stage": "小学",
+  "grade": "二年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "晓出净慈寺送林子方",
+  "author": "杨万里",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "接天莲叶无穷碧，映日荷花别样红。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-025",
+  "stage": "小学",
+  "grade": "二年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "绝句（两个黄鹂鸣翠柳）",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "两个黄鹂鸣翠柳，一行白鹭上青天。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-026",
+  "stage": "小学",
+  "grade": "二年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "悯农（其一）",
+  "author": "李绅",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "四海无闲田，农夫犹饿死。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-027",
+  "stage": "小学",
+  "grade": "二年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "舟夜书所见",
+  "author": "查慎行",
+  "dynasty": "清",
+  "from": "",
+  "quotes": [
+   "微微风簇浪，散作满河星。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-028",
+  "stage": "小学",
+  "grade": "三年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "所见",
+  "author": "袁枚",
+  "dynasty": "清",
+  "from": "",
+  "quotes": [
+   "意欲捕鸣蝉，忽然闭口立。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-029",
+  "stage": "小学",
+  "grade": "三年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "山行",
+  "author": "杜牧",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "停车坐爱枫林晚，霜叶红于二月花。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-030",
+  "stage": "小学",
+  "grade": "三年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "赠刘景文",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "一年好景君须记，最是橙黄橘绿时。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-031",
+  "stage": "小学",
+  "grade": "三年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "夜书所见",
+  "author": "叶绍翁",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "知有儿童挑促织，夜深篱落一灯明。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-032",
+  "stage": "小学",
+  "grade": "三年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "望天门山",
+  "author": "李白",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "两岸青山相对出，孤帆一片日边来。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-033",
+  "stage": "小学",
+  "grade": "三年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "饮湖上初晴后雨（其二）",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "欲把西湖比西子，淡妆浓抹总相宜。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-034",
+  "stage": "小学",
+  "grade": "三年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "望洞庭",
+  "author": "刘禹锡",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "遥望洞庭山水翠，白银盘里一青螺。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-035",
+  "stage": "小学",
+  "grade": "三年级上册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "早发白帝城",
+  "author": "李白",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "两岸猿声啼不住，轻舟已过万重山。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-036",
+  "stage": "小学",
+  "grade": "三年级上册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "采莲曲",
+  "author": "王昌龄",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "乱入池中看不见，闻歌始觉有人来。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-037",
+  "stage": "小学",
+  "grade": "三年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "史传散文",
+  "title": "司马光",
+  "author": "佚名",
+  "dynasty": "北宋",
+  "from": "《宋史·司马光传》",
+  "quotes": [
+   "众皆弃去，光持石击瓮破之。"
+  ],
+  "note": "据司马光幼年事迹，元脱脱等修《宋史》"
+ },
+ {
+  "id": "xx-038",
+  "stage": "小学",
+  "grade": "三年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "绝句（迟日江山丽）",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "迟日江山丽，春风花草香。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-039",
+  "stage": "小学",
+  "grade": "三年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "惠崇春江晚景（其一）",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "竹外桃花三两枝，春江水暖鸭先知。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-040",
+  "stage": "小学",
+  "grade": "三年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "三衢道中",
+  "author": "曾几",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "绿阴不减来时路，添得黄鹂四五声。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-041",
+  "stage": "小学",
+  "grade": "三年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "元日",
+  "author": "王安石",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "千门万户曈曈日，总把新桃换旧符。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-042",
+  "stage": "小学",
+  "grade": "三年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "清明",
+  "author": "杜牧",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "清明时节雨纷纷，路上行人欲断魂。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-043",
+  "stage": "小学",
+  "grade": "三年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "九月九日忆山东兄弟",
+  "author": "王维",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "独在异乡为异客，每逢佳节倍思亲。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-044",
+  "stage": "小学",
+  "grade": "三年级下册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "滁州西涧",
+  "author": "韦应物",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "春潮带雨晚来急，野渡无人舟自横。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-045",
+  "stage": "小学",
+  "grade": "三年级下册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "大林寺桃花",
+  "author": "白居易",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "人间四月芳菲尽，山寺桃花始盛开。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-046",
+  "stage": "小学",
+  "grade": "三年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "寓言",
+  "title": "守株待兔",
+  "author": "韩非",
+  "dynasty": "先秦",
+  "from": "《韩非子·五蠹》",
+  "quotes": [
+   "兔不可复得，而身为宋国笑。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-047",
+  "stage": "小学",
+  "grade": "四年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "暮江吟",
+  "author": "白居易",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "可怜九月初三夜，露似真珠月似弓。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-048",
+  "stage": "小学",
+  "grade": "四年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "题西林壁",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "不识庐山真面目，只缘身在此山中。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-049",
+  "stage": "小学",
+  "grade": "四年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "雪梅（其一）",
+  "author": "卢钺",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "梅须逊雪三分白，雪却输梅一段香。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-050",
+  "stage": "小学",
+  "grade": "四年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "出塞（其一）",
+  "author": "王昌龄",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "但使龙城飞将在，不教胡马度阴山。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-051",
+  "stage": "小学",
+  "grade": "四年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "凉州词（葡萄美酒夜光杯）",
+  "author": "王翰",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "醉卧沙场君莫笑，古来征战几人回？"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-052",
+  "stage": "小学",
+  "grade": "四年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "夏日绝句",
+  "author": "李清照",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "生当作人杰，死亦为鬼雄。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-053",
+  "stage": "小学",
+  "grade": "四年级上册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "别董大（其一）",
+  "author": "高适",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "莫愁前路无知己，天下谁人不识君。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-054",
+  "stage": "小学",
+  "grade": "四年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "神话",
+  "title": "精卫填海",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "from": "《山海经·北山经》",
+  "quotes": [
+   "常衔西山之木石，以堙于东海。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-055",
+  "stage": "小学",
+  "grade": "四年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "笔记小说",
+  "title": "王戎不取道旁李",
+  "author": "刘义庆",
+  "dynasty": "南朝宋",
+  "from": "《世说新语·雅量》",
+  "quotes": [
+   "树在道边而多子，此必苦李。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-056",
+  "stage": "小学",
+  "grade": "四年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "四时田园杂兴（其二十五）",
+  "author": "范成大",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "日长篱落无人过，惟有蜻蜓蛱蝶飞。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-057",
+  "stage": "小学",
+  "grade": "四年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "宿新市徐公店",
+  "author": "杨万里",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "儿童急走追黄蝶，飞入菜花无处寻。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-058",
+  "stage": "小学",
+  "grade": "四年级下册",
+  "source_type": "课文",
+  "type": "词",
+  "genre": "清平乐",
+  "title": "清平乐·村居",
+  "author": "辛弃疾",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "最喜小儿亡赖，溪头卧剥莲蓬。"
+  ],
+  "note": "词牌名清平乐"
+ },
+ {
+  "id": "xx-059",
+  "stage": "小学",
+  "grade": "四年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "芙蓉楼送辛渐（其一）",
+  "author": "王昌龄",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "洛阳亲友如相问，一片冰心在玉壶。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-060",
+  "stage": "小学",
+  "grade": "四年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "塞下曲（其三）",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "欲将轻骑逐，大雪满弓刀。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-061",
+  "stage": "小学",
+  "grade": "四年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "墨梅",
+  "author": "王冕",
+  "dynasty": "元",
+  "from": "",
+  "quotes": [
+   "不要人夸好颜色，只留清气满乾坤。"
+  ],
+  "note": "王冕自题画梅诗；教材版本“只流清气”与“只留清气”并存，取“只留清气满乾坤”"
+ },
+ {
+  "id": "xx-062",
+  "stage": "小学",
+  "grade": "四年级下册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "江畔独步寻花（其五）",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "桃花一簇开无主，可爱深红爱浅红。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-063",
+  "stage": "小学",
+  "grade": "四年级下册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "蜂",
+  "author": "罗隐",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "采得百花成蜜后，为谁辛苦为谁甜？"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-064",
+  "stage": "小学",
+  "grade": "四年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "史传散文",
+  "title": "囊萤夜读",
+  "author": "佚名",
+  "dynasty": "唐",
+  "from": "《晋书·车胤传》",
+  "quotes": [
+   "则练囊盛数十萤火以照书，以夜继日焉。"
+  ],
+  "note": "唐房玄龄等修《晋书》，记东晋车胤囊萤事"
+ },
+ {
+  "id": "xx-065",
+  "stage": "小学",
+  "grade": "四年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "笔记",
+  "title": "铁杵成针",
+  "author": "祝穆",
+  "dynasty": "宋",
+  "from": "《方舆胜览·眉州》",
+  "quotes": [
+   "太白感其意，还卒业。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-066",
+  "stage": "小学",
+  "grade": "五年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "示儿",
+  "author": "陆游",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "王师北定中原日，家祭无忘告乃翁。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-067",
+  "stage": "小学",
+  "grade": "五年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "题临安邸",
+  "author": "林升",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "暖风熏得游人醉，直把杭州作汴州。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-068",
+  "stage": "小学",
+  "grade": "五年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "己亥杂诗（其一百二十五）",
+  "author": "龚自珍",
+  "dynasty": "清",
+  "from": "",
+  "quotes": [
+   "我劝天公重抖擞，不拘一格降人才。"
+  ],
+  "note": "小学选“九州生气恃风雷”一首，与初中七下“浩荡离愁”（其五）同题不同首"
+ },
+ {
+  "id": "xx-069",
+  "stage": "小学",
+  "grade": "五年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "山居秋暝",
+  "author": "王维",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "明月松间照，清泉石上流。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-070",
+  "stage": "小学",
+  "grade": "五年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "枫桥夜泊",
+  "author": "张继",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "姑苏城外寒山寺，夜半钟声到客船。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-071",
+  "stage": "小学",
+  "grade": "五年级上册",
+  "source_type": "课文",
+  "type": "词",
+  "genre": "长相思",
+  "title": "长相思（山一程）",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "from": "",
+  "quotes": [
+   "风一更，雪一更，聒碎乡心梦不成。"
+  ],
+  "note": "2026修订已从五上删除，留作拓展练习；词牌名长相思"
+ },
+ {
+  "id": "xx-072",
+  "stage": "小学",
+  "grade": "五年级上册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "蝉",
+  "author": "虞世南",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "居高声自远，非是藉秋风。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-073",
+  "stage": "小学",
+  "grade": "五年级上册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "乞巧",
+  "author": "林杰",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "家家乞巧望秋月，穿尽红丝几万条。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-074",
+  "stage": "小学",
+  "grade": "五年级上册",
+  "source_type": "日积月累",
+  "type": "词",
+  "genre": "渔歌子",
+  "title": "渔歌子（西塞山前白鹭飞）",
+  "author": "张志和",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "青箬笠，绿蓑衣，斜风细雨不须归。"
+  ],
+  "note": "词牌名渔歌子"
+ },
+ {
+  "id": "xx-075",
+  "stage": "小学",
+  "grade": "五年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "说",
+  "title": "少年中国说（节选）",
+  "author": "梁启超",
+  "dynasty": "清",
+  "from": "《少年中国说》",
+  "quotes": [
+   "少年智则国智，少年富则国富，少年强则国强。",
+   "红日初升，其道大光。"
+  ],
+  "note": "节选；“少年强则国强”为浓缩引用，原文两句之间有排比"
+ },
+ {
+  "id": "xx-076",
+  "stage": "小学",
+  "grade": "五年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "语录体",
+  "title": "古人谈读书",
+  "author": "孔子弟子及朱熹",
+  "dynasty": "先秦/宋",
+  "from": "《论语》与朱熹《训学斋规》",
+  "quotes": [
+   "敏而好学，不耻下问。",
+   "读书有三到，谓心到、眼到、口到。"
+  ],
+  "note": "其一、二则出自《论语》，其三出自朱熹《训学斋规》"
+ },
+ {
+  "id": "xx-077",
+  "stage": "小学",
+  "grade": "五年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "四时田园杂兴（其三十一）",
+  "author": "范成大",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "昼出耘田夜绩麻，村庄儿女各当家。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-078",
+  "stage": "小学",
+  "grade": "五年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "稚子弄冰",
+  "author": "杨万里",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "敲成玉磬穿林响，忽作玻璃碎地声。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-079",
+  "stage": "小学",
+  "grade": "五年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "村晚",
+  "author": "雷震",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "牧童归去横牛背，短笛无腔信口吹。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-080",
+  "stage": "小学",
+  "grade": "五年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "从军行（其四）",
+  "author": "王昌龄",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "黄沙百战穿金甲，不破楼兰终不还。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-081",
+  "stage": "小学",
+  "grade": "五年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "秋夜将晓出篱门迎凉有感",
+  "author": "陆游",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "遗民泪尽胡尘里，南望王师又一年。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-082",
+  "stage": "小学",
+  "grade": "五年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言律诗",
+  "title": "闻官军收河南河北",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "白日放歌须纵酒，青春作伴好还乡。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-083",
+  "stage": "小学",
+  "grade": "五年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "凉州词（其一）",
+  "author": "王之涣",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "羌笛何须怨杨柳，春风不度玉门关。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-084",
+  "stage": "小学",
+  "grade": "五年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "黄鹤楼送孟浩然之广陵",
+  "author": "李白",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "孤帆远影碧空尽，唯见长江天际流。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-085",
+  "stage": "小学",
+  "grade": "五年级下册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "乡村四月",
+  "author": "翁卷",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "乡村四月闲人少，才了蚕桑又插田。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-086",
+  "stage": "小学",
+  "grade": "五年级下册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "乐府",
+  "title": "游子吟",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "from": "《乐府诗集》",
+  "quotes": [
+   "谁言寸草心，报得三春晖。"
+  ],
+  "note": "属《乐府诗集·杂曲歌辞》，题下孟郊自注“迎母溧上作”"
+ },
+ {
+  "id": "xx-087",
+  "stage": "小学",
+  "grade": "五年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "寓言",
+  "title": "自相矛盾",
+  "author": "韩非",
+  "dynasty": "先秦",
+  "from": "《韩非子·难一》",
+  "quotes": [
+   "夫不可陷之盾与无不陷之矛，不可同世而立。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-088",
+  "stage": "小学",
+  "grade": "五年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "笔记小说",
+  "title": "杨氏之子",
+  "author": "刘义庆",
+  "dynasty": "南朝宋",
+  "from": "《世说新语·言语》",
+  "quotes": [
+   "未闻孔雀是夫子家禽。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-089",
+  "stage": "小学",
+  "grade": "六年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "宿建德江",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "野旷天低树，江清月近人。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-090",
+  "stage": "小学",
+  "grade": "六年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "六月二十七日望湖楼醉书（其一）",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "黑云翻墨未遮山，白雨跳珠乱入船。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-091",
+  "stage": "小学",
+  "grade": "六年级上册",
+  "source_type": "课文",
+  "type": "词",
+  "genre": "西江月",
+  "title": "西江月·夜行黄沙道中",
+  "author": "辛弃疾",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "稻花香里说丰年，听取蛙声一片。"
+  ],
+  "note": "词牌名西江月"
+ },
+ {
+  "id": "xx-092",
+  "stage": "小学",
+  "grade": "六年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "浪淘沙（其一）",
+  "author": "刘禹锡",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "九曲黄河万里沙，浪淘风簸自天涯。"
+  ],
+  "note": "《浪淘沙》组诗九首之一，此调后发展为词牌"
+ },
+ {
+  "id": "xx-093",
+  "stage": "小学",
+  "grade": "六年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "江南春",
+  "author": "杜牧",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "南朝四百八十寺，多少楼台烟雨中。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-094",
+  "stage": "小学",
+  "grade": "六年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "书湖阴先生壁（其一）",
+  "author": "王安石",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "一水护田将绿绕，两山排闼送青来。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-095",
+  "stage": "小学",
+  "grade": "六年级上册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "过故人庄",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "待到重阳日，还来就菊花。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-096",
+  "stage": "小学",
+  "grade": "六年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "诸子散文",
+  "title": "伯牙鼓琴",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "from": "《吕氏春秋·本味》",
+  "quotes": [
+   "伯牙破琴绝弦，终身不复鼓琴。"
+  ],
+  "note": "2026修订已从六上移出，留作拓展练习；即“高山流水”典故"
+ },
+ {
+  "id": "xx-097",
+  "stage": "小学",
+  "grade": "六年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "笔记",
+  "title": "书戴嵩画牛",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "from": "《东坡志林》",
+  "quotes": [
+   "耕当问奴，织当问婢。"
+  ],
+  "note": "2026修订已从六上移出，留作拓展练习"
+ },
+ {
+  "id": "xx-098",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "寒食",
+  "author": "韩翃",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "春城无处不飞花，寒食东风御柳斜。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-099",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言古诗",
+  "title": "迢迢牵牛星",
+  "author": "佚名",
+  "dynasty": "汉",
+  "from": "《古诗十九首》",
+  "quotes": [
+   "盈盈一水间，脉脉不得语。"
+  ],
+  "note": "《古诗十九首》之一，南朝萧统《文选》辑录"
+ },
+ {
+  "id": "xx-100",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "十五夜望月",
+  "author": "王建",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "今夜月明人尽望，不知秋思落谁家。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-101",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "乐府",
+  "title": "长歌行",
+  "author": "佚名",
+  "dynasty": "汉",
+  "from": "《乐府诗集》",
+  "quotes": [
+   "少壮不努力，老大徒伤悲！"
+  ],
+  "note": "汉乐府民歌，郭茂倩《乐府诗集》辑"
+ },
+ {
+  "id": "xx-102",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "马诗（其五）",
+  "author": "李贺",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "大漠沙如雪，燕山月似钩。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-103",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "石灰吟",
+  "author": "于谦",
+  "dynasty": "明",
+  "from": "",
+  "quotes": [
+   "粉骨碎身浑不怕，要留清白在人间。"
+  ],
+  "note": "另有「粉身碎骨浑不怕」「粉骨碎身全不怕」等教材异文，本库取部编版"
+ },
+ {
+  "id": "xx-104",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "竹石",
+  "author": "郑燮",
+  "dynasty": "清",
+  "from": "",
+  "quotes": [
+   "千磨万击还坚劲，任尔东西南北风。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-105",
+  "stage": "小学",
+  "grade": "五年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "早春呈水部张十八员外（其一）",
+  "author": "韩愈",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "天街小雨润如酥，草色遥看近却无。"
+  ],
+  "note": "旧版在六下古诗词诵读；2026修订移入五上课文"
+ },
+ {
+  "id": "xx-106",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "江上渔者",
+  "author": "范仲淹",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "君看一叶舟，出没风波里。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-107",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "泊船瓜洲",
+  "author": "王安石",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "春风又绿江南岸，明月何时照我还。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-108",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "游园不值",
+  "author": "叶绍翁",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "春色满园关不住，一枝红杏出墙来。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-109",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "日积月累",
+  "type": "词",
+  "genre": "卜算子",
+  "title": "卜算子·送鲍浩然之浙东",
+  "author": "王观",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "若到江南赶上春，千万和春住。"
+  ],
+  "note": "词牌名卜算子"
+ },
+ {
+  "id": "xx-110",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "日积月累",
+  "type": "词",
+  "genre": "清平乐",
+  "title": "清平乐·春归何处",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "春无踪迹谁知？除非问取黄鹂。"
+  ],
+  "note": "词牌名清平乐"
+ },
+ {
+  "id": "xx-111",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "诸子散文",
+  "title": "学弈",
+  "author": "孟子及其弟子",
+  "dynasty": "先秦",
+  "from": "《孟子·告子上》",
+  "quotes": [
+   "虽与之俱学，弗若之矣。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "xx-112",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "寓言",
+  "title": "两小儿辩日",
+  "author": "列子",
+  "dynasty": "先秦",
+  "from": "《列子·汤问》",
+  "quotes": [
+   "孰为汝多知乎？"
+  ],
+  "note": "2026秋修订已移入六上；出自《列子·汤问》"
+ },
+ {
+  "id": "xx-113",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "诵读推荐",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "春夜喜雨",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "随风潜入夜，润物细无声。"
+  ],
+  "note": "统编六下古诗词诵读"
+ },
+ {
+  "id": "xx-114",
+  "stage": "小学",
+  "grade": "三年级下册",
+  "source_type": "日积月累",
+  "type": "词",
+  "genre": "忆江南",
+  "title": "忆江南（其一）",
+  "author": "白居易",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "日出江花红胜火，春来江水绿如蓝。"
+  ],
+  "note": "统编三下园地日积月累；词牌名忆江南"
+ },
+ {
+  "id": "xx-115",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "诵读推荐",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "送元二使安西",
+  "author": "王维",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "劝君更尽一杯酒，西出阳关无故人。"
+  ],
+  "note": "统编六下古诗词诵读；又称《渭城曲》，谱入乐府称《阳关三叠》"
+ },
+ {
+  "id": "xx-116",
+  "stage": "小学",
+  "grade": "拓展",
+  "source_type": "拓展",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "乐游原（向晚意不适）",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "夕阳无限好，只是近黄昏。"
+  ],
+  "note": "五言古绝，不拘近体格律"
+ },
+ {
+  "id": "xx-117",
+  "stage": "小学",
+  "grade": "六年级上册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "回乡偶书（其一）",
+  "author": "贺知章",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "儿童相见不相识，笑问客从何处来。"
+  ],
+  "note": "统编六上园地日积月累"
+ },
+ {
+  "id": "xx-118",
+  "stage": "小学",
+  "grade": "四年级上册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "鹿柴",
+  "author": "王维",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "空山不见人，但闻人语响。"
+  ],
+  "note": "统编四上园地日积月累；课标必背75首之一"
+ },
+ {
+  "id": "xx-119",
+  "stage": "小学",
+  "grade": "四年级上册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "嫦娥",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "嫦娥应悔偷灵药，碧海青天夜夜心。"
+  ],
+  "note": "统编四上园地日积月累"
+ },
+ {
+  "id": "xx-120",
+  "stage": "小学",
+  "grade": "四年级上册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "浪淘沙（其七）",
+  "author": "刘禹锡",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "须臾却入海门去，卷起沙堆似雪堆。"
+  ],
+  "note": "统编四上园地日积月累，「八月涛声吼地来」一首；与六上《浪淘沙（其一）》同题不同首"
+ },
+ {
+  "id": "xx-121",
+  "stage": "小学",
+  "grade": "五年级上册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "观书有感（其一）",
+  "author": "朱熹",
+  "dynasty": "南宋",
+  "from": "",
+  "quotes": [
+   "问渠那得清如许？为有源头活水来。"
+  ],
+  "note": "统编五上园地日积月累；课标必背"
+ },
+ {
+  "id": "xx-122",
+  "stage": "小学",
+  "grade": "五年级上册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "观书有感（其二）",
+  "author": "朱熹",
+  "dynasty": "南宋",
+  "from": "",
+  "quotes": [
+   "向来枉费推移力，此日中流自在行。"
+  ],
+  "note": "统编五上园地日积月累；2026修订版园地保留情况以正式课本为准"
+ },
+ {
+  "id": "xx-123",
+  "stage": "小学",
+  "grade": "六年级上册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "春日",
+  "author": "朱熹",
+  "dynasty": "南宋",
+  "from": "",
+  "quotes": [
+   "等闲识得东风面，万紫千红总是春。"
+  ],
+  "note": "统编六上园地日积月累；课标必背"
+ },
+ {
+  "id": "xx-124",
+  "stage": "小学",
+  "grade": "五年级下册",
+  "source_type": "日积月累",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "鸟鸣涧",
+  "author": "王维",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "月出惊山鸟，时鸣春涧中。"
+  ],
+  "note": "统编五下园地日积月累"
+ },
+ {
+  "id": "xx-125",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "诵读推荐",
+  "type": "诗",
+  "genre": "四言古诗（诗经·小雅）",
+  "title": "采薇（节选）",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "from": "《诗经·小雅》",
+  "quotes": [
+   "昔我往矣，杨柳依依。今我来思，雨雪霏霏。"
+  ],
+  "note": "统编六下古诗词诵读；《诗经》名篇节选"
+ },
+ {
+  "id": "xx-126",
+  "stage": "小学",
+  "grade": "六年级下册",
+  "source_type": "诵读推荐",
+  "type": "词",
+  "genre": "词·浣溪沙",
+  "title": "浣溪沙（游蕲水清泉寺）",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "谁道人生无再少？门前流水尚能西！"
+  ],
+  "note": "统编六下古诗词诵读；与初中九上《浣溪沙（漠漠轻寒）》同牌不同篇"
+ },
+ {
+  "id": "xx-127",
+  "stage": "小学",
+  "grade": "六年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "史传散文",
+  "title": "曹冲称象",
+  "author": "陈寿",
+  "dynasty": "西晋",
+  "from": "《三国志·魏书》",
+  "quotes": [
+   "置象大船之上，而刻其水痕所至，称物以载之，则可知也。"
+  ],
+  "note": "2026修订新增文言课文（原二上白话课文改写）；现行旧版六上无此篇"
+ },
+ {
+  "id": "cz-001",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "四言古诗（乐府）",
+  "title": "观沧海",
+  "author": "曹操",
+  "dynasty": "东汉末",
+  "from": "《乐府诗集》",
+  "quotes": [
+   "日月之行，若出其中；星汉灿烂，若出其里。"
+  ],
+  "note": "《步出夏门行》第一章"
+ },
+ {
+  "id": "cz-002",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "闻王昌龄左迁龙标遥有此寄",
+  "author": "李白",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "我寄愁心与明月，随君直到夜郎西。"
+  ],
+  "note": "一作「随风直到夜郎西」，本库取部编教材「随君」"
+ },
+ {
+  "id": "cz-003",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "次北固山下",
+  "author": "王湾",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "海日生残夜，江春入旧年。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-004",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课文",
+  "type": "曲",
+  "genre": "散曲小令",
+  "title": "天净沙·秋思",
+  "author": "马致远",
+  "dynasty": "元",
+  "from": "",
+  "quotes": [
+   "夕阳西下，断肠人在天涯。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-005",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "峨眉山月歌",
+  "author": "李白",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "峨眉山月半轮秋，影入平羌江水流。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-006",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "江南逢李龟年",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "正是江南好风景，落花时节又逢君。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-007",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "行军九日思长安故园",
+  "author": "岑参",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "遥怜故园菊，应傍战场开。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-008",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "夜上受降城闻笛",
+  "author": "李益",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "不知何处吹芦管，一夜征人尽望乡。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-009",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "秋词（其一）",
+  "author": "刘禹锡",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "自古逢秋悲寂寥，我言秋日胜春朝。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-010",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "夜雨寄北",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "何当共剪西窗烛，却话巴山夜雨时。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-011",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "十一月四日风雨大作（其二）",
+  "author": "陆游",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "夜阑卧听风吹雨，铁马冰河入梦来。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-012",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "潼关",
+  "author": "谭嗣同",
+  "dynasty": "清",
+  "from": "",
+  "quotes": [
+   "河流大野犹嫌束，山入潼关不解平。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-013",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "笔记小说",
+  "title": "咏雪",
+  "author": "刘义庆",
+  "dynasty": "南朝宋",
+  "from": "《世说新语·言语》",
+  "quotes": [
+   "未若柳絮因风起。"
+  ],
+  "note": "《世说新语》由南朝宋刘义庆组织编写的笔记小说集"
+ },
+ {
+  "id": "cz-014",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "笔记小说",
+  "title": "陈太丘与友期行",
+  "author": "刘义庆",
+  "dynasty": "南朝宋",
+  "from": "《世说新语·方正》",
+  "quotes": [
+   "友人惭，下车引之。元方入门不顾。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-015",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "语录体",
+  "title": "论语十二章",
+  "author": "孔子及其弟子",
+  "dynasty": "先秦",
+  "from": "《论语》",
+  "quotes": [
+   "学而时习之，不亦说乎？",
+   "三人行，必有我师焉。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-016",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "书信",
+  "title": "诫子书",
+  "author": "诸葛亮",
+  "dynasty": "三国蜀",
+  "from": "《诸葛亮集》",
+  "quotes": [
+   "非淡泊无以明志，非宁静无以致远。"
+  ],
+  "note": "诸葛亮写给儿子诸葛瞻的家书"
+ },
+ {
+  "id": "cz-017",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "笔记小说",
+  "title": "狼",
+  "author": "蒲松龄",
+  "dynasty": "清",
+  "from": "《聊斋志异·狼三则》",
+  "quotes": [
+   "禽兽之变诈几何哉？止增笑耳。"
+  ],
+  "note": "选自《狼三则》其二"
+ },
+ {
+  "id": "cz-018",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "寓言",
+  "title": "穿井得一人",
+  "author": "吕不韦（门客编）",
+  "dynasty": "先秦",
+  "from": "《吕氏春秋·慎行论·察传》",
+  "quotes": [
+   "得一人之使，非得一人于井中也。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-019",
+  "stage": "初中",
+  "grade": "七年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "寓言",
+  "title": "杞人忧天",
+  "author": "列子",
+  "dynasty": "先秦",
+  "from": "《列子·天瑞》",
+  "quotes": [
+   "奈何忧其坏？"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-020",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "史传",
+  "title": "孙权劝学",
+  "author": "司马光",
+  "dynasty": "宋",
+  "from": "《资治通鉴·汉纪》",
+  "quotes": [
+   "士别三日，即更刮目相待。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-021",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "北朝乐府叙事民歌",
+  "title": "木兰诗",
+  "author": "佚名",
+  "dynasty": "北朝",
+  "from": "《乐府诗集》",
+  "quotes": [
+   "万里赴戎机，关山度若飞。",
+   "雄兔脚扑朔，雌兔眼迷离。"
+  ],
+  "note": "北朝民歌，作者佚名，宋郭茂倩《乐府诗集》辑录"
+ },
+ {
+  "id": "cz-022",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "笔记小说",
+  "title": "卖油翁",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "from": "《归田录》",
+  "quotes": [
+   "我亦无他，惟手熟尔。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-023",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "铭",
+  "title": "陋室铭",
+  "author": "刘禹锡",
+  "dynasty": "唐",
+  "from": "《陋室铭》",
+  "quotes": [
+   "斯是陋室，惟吾德馨。"
+  ],
+  "note": "单篇行世"
+ },
+ {
+  "id": "cz-024",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "说",
+  "title": "爱莲说",
+  "author": "周敦颐",
+  "dynasty": "宋",
+  "from": "《爱莲说》",
+  "quotes": [
+   "出淤泥而不染，濯清涟而不妖。"
+  ],
+  "note": "单篇行世"
+ },
+ {
+  "id": "cz-025",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "古体诗",
+  "title": "登幽州台歌",
+  "author": "陈子昂",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "前不见古人，后不见来者。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-026",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言古诗",
+  "title": "望岳",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "会当凌绝顶，一览众山小。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-027",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "登飞来峰",
+  "author": "王安石",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "不畏浮云遮望眼，自缘身在最高层。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-028",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "己亥杂诗（其五）",
+  "author": "龚自珍",
+  "dynasty": "清",
+  "from": "",
+  "quotes": [
+   "落红不是无情物，化作春泥更护花。"
+  ],
+  "note": "《己亥杂诗》共三百一十五首，此为其五；与小学五年级上册《己亥杂诗》（九州生气恃风雷）为同题组诗中的不同首"
+ },
+ {
+  "id": "cz-029",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言律诗",
+  "title": "游山西村",
+  "author": "陆游",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "山重水复疑无路，柳暗花明又一村。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-030",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "五言绝句",
+  "title": "竹里馆",
+  "author": "王维",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "深林人不知，明月来相照。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-031",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "春夜洛城闻笛",
+  "author": "李白",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "此夜曲中闻折柳，何人不起故园情。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-032",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "逢入京使",
+  "author": "岑参",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "马上相逢无纸笔，凭君传语报平安。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-033",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "晚春",
+  "author": "韩愈",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "杨花榆荚无才思，惟解漫天作雪飞。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-034",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "泊秦淮",
+  "author": "杜牧",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "商女不知亡国恨，隔江犹唱后庭花。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-035",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "贾生",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "可怜夜半虚前席，不问苍生问鬼神。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-036",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "过松源晨炊漆公店（其五）",
+  "author": "杨万里",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "政入万山围子里，一山放出一山拦。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-037",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "约客",
+  "author": "赵师秀",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "有约不来过夜半，闲敲棋子落灯花。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-038",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "笔记小说",
+  "title": "河中石兽",
+  "author": "纪昀",
+  "dynasty": "清",
+  "from": "《阅微草堂笔记》",
+  "quotes": [
+   "凡河中失石，当求之于上流。"
+  ],
+  "note": "旧版教材课文；2024 修订版教材已调整为自读/删除，保留供练习"
+ },
+ {
+  "id": "cz-039",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "野望",
+  "author": "王绩",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "树树皆秋色，山山唯落晖。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-040",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言律诗",
+  "title": "黄鹤楼",
+  "author": "崔颢",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "晴川历历汉阳树，芳草萋萋鹦鹉洲。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-041",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "使至塞上",
+  "author": "王维",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "大漠孤烟直，长河落日圆。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-042",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "渡荆门送别",
+  "author": "李白",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "仍怜故乡水，万里送行舟。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-043",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言律诗",
+  "title": "钱塘湖春行",
+  "author": "白居易",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "乱花渐欲迷人眼，浅草才能没马蹄。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-044",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "五言古诗",
+  "title": "庭中有奇树",
+  "author": "佚名",
+  "dynasty": "汉",
+  "from": "《古诗十九首》",
+  "quotes": [
+   "馨香盈怀袖，路远莫致之。"
+  ],
+  "note": "《古诗十九首》之一，作者佚名，南朝梁萧统《文选》辑录"
+ },
+ {
+  "id": "cz-045",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "四言古诗（乐府）",
+  "title": "龟虽寿",
+  "author": "曹操",
+  "dynasty": "东汉末",
+  "from": "《乐府诗集》",
+  "quotes": [
+   "老骥伏枥，志在千里；烈士暮年，壮心不已。"
+  ],
+  "note": "《步出夏门行》末章"
+ },
+ {
+  "id": "cz-046",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "五言古诗",
+  "title": "赠从弟（其二）",
+  "author": "刘桢",
+  "dynasty": "三国魏",
+  "from": "",
+  "quotes": [
+   "岂不罹凝寒？松柏有本性。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-047",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "五言乐府",
+  "title": "梁甫行",
+  "author": "曹植",
+  "dynasty": "三国魏",
+  "from": "",
+  "quotes": [
+   "八方各异气，千里殊风雨。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-048",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课外诵读",
+  "type": "词",
+  "genre": "词·浣溪沙（婉约）",
+  "title": "浣溪沙（一曲新词酒一杯）",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "无可奈何花落去，似曾相识燕归来。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-049",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言古诗",
+  "title": "饮酒（其五）",
+  "author": "陶渊明",
+  "dynasty": "东晋",
+  "from": "",
+  "quotes": [
+   "采菊东篱下，悠然见南山。"
+  ],
+  "note": "《饮酒》组诗二十首之五"
+ },
+ {
+  "id": "cz-050",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "春望",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "感时花溅泪，恨别鸟惊心。",
+   "烽火连三月，家书抵万金。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-051",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言乐府（歌行体）",
+  "title": "雁门太守行",
+  "author": "李贺",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "黑云压城城欲摧，甲光向日金鳞开。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-052",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言绝句",
+  "title": "赤壁",
+  "author": "杜牧",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "东风不与周郎便，铜雀春深锁二乔。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-053",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "词",
+  "genre": "词·渔家傲（豪放）",
+  "title": "渔家傲（天接云涛连晓雾）",
+  "author": "李清照",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "九万里风鹏正举。风休住，蓬舟吹取三山去！"
+  ],
+  "note": "李清照罕见的豪放之作"
+ },
+ {
+  "id": "cz-054",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "山水散文",
+  "title": "三峡",
+  "author": "郦道元",
+  "dynasty": "北魏",
+  "from": "《水经注校证》",
+  "quotes": [
+   "素湍绿潭，回清倒影。",
+   "虽乘奔御风，不以疾也。"
+  ],
+  "note": "节选自《水经注·江水》"
+ },
+ {
+  "id": "cz-055",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "书信（骈文）",
+  "title": "答谢中书书",
+  "author": "陶弘景",
+  "dynasty": "南朝梁",
+  "from": "《陶隐居集》",
+  "quotes": [
+   "山川之美，古来共谈。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-056",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "记",
+  "title": "记承天寺夜游",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "from": "《苏轼文集》",
+  "quotes": [
+   "庭下如积水空明，水中藻、荇交横，盖竹柏影也。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-057",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "书信（骈文）",
+  "title": "与朱元思书",
+  "author": "吴均",
+  "dynasty": "南朝梁",
+  "from": "《艺文类聚》",
+  "quotes": [
+   "鸢飞戾天者，望峰息心。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-058",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "诸子散文",
+  "title": "得道多助，失道寡助",
+  "author": "孟子及其弟子",
+  "dynasty": "先秦",
+  "from": "《孟子·公孙丑下》",
+  "quotes": [
+   "天时不如地利，地利不如人和。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-059",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "诸子散文",
+  "title": "富贵不能淫",
+  "author": "孟子及其弟子",
+  "dynasty": "先秦",
+  "from": "《孟子·滕文公下》",
+  "quotes": [
+   "富贵不能淫，贫贱不能移，威武不能屈。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-060",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "诸子散文",
+  "title": "生于忧患，死于安乐",
+  "author": "孟子及其弟子",
+  "dynasty": "先秦",
+  "from": "《孟子·告子下》",
+  "quotes": [
+   "然后知生于忧患而死于安乐也。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-061",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "寓言",
+  "title": "愚公移山",
+  "author": "列子",
+  "dynasty": "先秦",
+  "from": "《列子·汤问》",
+  "quotes": [
+   "子子孙孙无穷匮也，而山不加增，何苦而不平？"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-062",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "史传",
+  "title": "周亚夫军细柳",
+  "author": "司马迁",
+  "dynasty": "西汉",
+  "from": "《史记·绛侯周勃世家》",
+  "quotes": [
+   "此真将军矣！"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-063",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "四言古诗（诗经体）",
+  "title": "关雎",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "from": "《诗经·周南》",
+  "quotes": [
+   "窈窕淑女，君子好逑。"
+  ],
+  "note": "《诗经》为我国最早的一部诗歌总集，作者多不可考"
+ },
+ {
+  "id": "cz-064",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "四言古诗（诗经体）",
+  "title": "蒹葭",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "from": "《诗经·秦风》",
+  "quotes": [
+   "蒹葭苍苍，白露为霜。所谓伊人，在水一方。"
+  ],
+  "note": "《诗经》秦地民歌"
+ },
+ {
+  "id": "cz-065",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "四言古诗（诗经体）",
+  "title": "式微",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "from": "《诗经·邶风》",
+  "quotes": [
+   "微君之故，胡为乎中露？"
+  ],
+  "note": "《诗经》邶地民歌"
+ },
+ {
+  "id": "cz-066",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "四言古诗（诗经体）",
+  "title": "子衿",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "from": "《诗经·郑风》",
+  "quotes": [
+   "一日不见，如三月兮！"
+  ],
+  "note": "《诗经》郑地民歌"
+ },
+ {
+  "id": "cz-067",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "送杜少府之任蜀州",
+  "author": "王勃",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "海内存知己，天涯若比邻。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-068",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "望洞庭湖赠张丞相",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "气蒸云梦泽，波撼岳阳城。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-069",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "叙事诗（乐府）",
+  "title": "石壕吏",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "存者且偷生，死者长已矣！"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-070",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "歌行体",
+  "title": "茅屋为秋风所破歌",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "安得广厦千万间，大庇天下寒士俱欢颜！"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-071",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "新乐府",
+  "title": "卖炭翁",
+  "author": "白居易",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "可怜身上衣正单，心忧炭贱愿天寒。"
+  ],
+  "note": "白居易《新乐府》组诗之一"
+ },
+ {
+  "id": "cz-072",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "题破山寺后禅院",
+  "author": "常建",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "山光悦鸟性，潭影空人心。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-073",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "送友人",
+  "author": "李白",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "浮云游子意，落日故人情。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-074",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课外诵读",
+  "type": "词",
+  "genre": "词·卜算子（婉约）",
+  "title": "卜算子·黄州定慧院寓居作",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "拣尽寒枝不肯栖，寂寞沙洲冷。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-075",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课外诵读",
+  "type": "词",
+  "genre": "词·卜算子（婉约）",
+  "title": "卜算子·咏梅",
+  "author": "陆游",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "零落成泥碾作尘，只有香如故。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-076",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "记",
+  "title": "桃花源记",
+  "author": "陶渊明",
+  "dynasty": "东晋",
+  "from": "《陶渊明集》",
+  "quotes": [
+   "芳草鲜美，落英缤纷。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-077",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "记",
+  "title": "小石潭记",
+  "author": "柳宗元",
+  "dynasty": "唐",
+  "from": "《柳河东集》",
+  "quotes": [
+   "潭中鱼可百许头，皆若空游无所依。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-078",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "记",
+  "title": "核舟记",
+  "author": "魏学洢",
+  "dynasty": "明",
+  "from": "《虞初新志》",
+  "quotes": [
+   "技亦灵怪矣哉！"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-079",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "诸子散文",
+  "title": "北冥有鱼",
+  "author": "庄子及其后学",
+  "dynasty": "先秦",
+  "from": "《庄子·逍遥游》",
+  "quotes": [
+   "抟扶摇而上者九万里。",
+   "北冥有鱼，其名为鲲。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-080",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "诸子散文",
+  "title": "庄子与惠子游于濠梁之上",
+  "author": "庄子及其后学",
+  "dynasty": "先秦",
+  "from": "《庄子·秋水》",
+  "quotes": [
+   "子非鱼，安知鱼之乐？"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-081",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "儒家经典散文",
+  "title": "虽有嘉肴",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "from": "《礼记·学记》",
+  "quotes": [
+   "教学相长也。"
+  ],
+  "note": "西汉戴圣编纂《礼记》"
+ },
+ {
+  "id": "cz-082",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "儒家经典散文",
+  "title": "大道之行也",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "from": "《礼记·礼运》",
+  "quotes": [
+   "大道之行也，天下为公。"
+  ],
+  "note": "西汉戴圣编纂《礼记》"
+ },
+ {
+  "id": "cz-083",
+  "stage": "初中",
+  "grade": "八年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "说",
+  "title": "马说",
+  "author": "韩愈",
+  "dynasty": "唐",
+  "from": "《韩昌黎文集校注》",
+  "quotes": [
+   "千里马常有，而伯乐不常有。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-084",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课文",
+  "type": "现代诗词",
+  "genre": "词·沁园春（豪放）",
+  "title": "沁园春·雪",
+  "author": "毛泽东",
+  "dynasty": "现代",
+  "from": "",
+  "quotes": [
+   "数风流人物，还看今朝。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-085",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "乐府歌行体",
+  "title": "行路难（其一）",
+  "author": "李白",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "长风破浪会有时，直挂云帆济沧海。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-086",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言律诗",
+  "title": "酬乐天扬州初逢席上见赠",
+  "author": "刘禹锡",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "沉舟侧畔千帆过，病树前头万木春。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-087",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课文",
+  "type": "词",
+  "genre": "词·水调歌头（豪放）",
+  "title": "水调歌头（明月几时有）",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "但愿人长久，千里共婵娟。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-088",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "月夜忆舍弟",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "露从今夜白，月是故乡明。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-089",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言律诗",
+  "title": "长沙过贾谊宅",
+  "author": "刘长卿",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "寂寂江山摇落处，怜君何事到天涯！"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-090",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言律诗",
+  "title": "左迁至蓝关示侄孙湘",
+  "author": "韩愈",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "云横秦岭家何在？雪拥蓝关马不前。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-091",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "商山早行",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "鸡声茅店月，人迹板桥霜。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-092",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言律诗",
+  "title": "无题（相见时难别亦难）",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "春蚕到死丝方尽，蜡炬成灰泪始干。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-093",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言律诗",
+  "title": "咸阳城东楼",
+  "author": "许浑",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "溪云初起日沉阁，山雨欲来风满楼。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-094",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课外诵读",
+  "type": "词",
+  "genre": "词·行香子（婉约）",
+  "title": "行香子（树绕村庄）",
+  "author": "秦观",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "有桃花红，李花白，菜花黄。"
+  ],
+  "note": "2026修订已替换为秦观《浣溪沙（漠漠轻寒）》"
+ },
+ {
+  "id": "cz-095",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课外诵读",
+  "type": "词",
+  "genre": "词·丑奴儿（婉约）",
+  "title": "丑奴儿·书博山道中壁",
+  "author": "辛弃疾",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "却道天凉好个秋。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-096",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "记",
+  "title": "岳阳楼记",
+  "author": "范仲淹",
+  "dynasty": "宋",
+  "from": "《范仲淹全集》",
+  "quotes": [
+   "先天下之忧而忧，后天下之乐而乐。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-097",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "记",
+  "title": "醉翁亭记",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "from": "《欧阳修全集》",
+  "quotes": [
+   "醉翁之意不在酒，在乎山水之间也。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-098",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "记",
+  "title": "湖心亭看雪",
+  "author": "张岱",
+  "dynasty": "明末清初",
+  "from": "《陶庵梦忆》",
+  "quotes": [
+   "雾凇沆砀，天与云与山与水，上下一白。"
+  ],
+  "note": "晚明小品文名篇"
+ },
+ {
+  "id": "cz-099",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课文",
+  "type": "词",
+  "genre": "词·渔家傲（豪放）",
+  "title": "渔家傲·秋思",
+  "author": "范仲淹",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "浊酒一杯家万里，燕然未勒归无计。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-100",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课文",
+  "type": "词",
+  "genre": "词·江城子（豪放）",
+  "title": "江城子·密州出猎",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "会挽雕弓如满月，西北望，射天狼。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-101",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课文",
+  "type": "词",
+  "genre": "词·破阵子（豪放）",
+  "title": "破阵子·为陈同甫赋壮词以寄之",
+  "author": "辛弃疾",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "了却君王天下事，赢得生前身后名。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-102",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课文",
+  "type": "词",
+  "genre": "词·满江红（豪放）",
+  "title": "满江红（小住京华）",
+  "author": "秋瑾",
+  "dynasty": "近现代",
+  "from": "",
+  "quotes": [
+   "身不得，男儿列；心却比，男儿烈。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-103",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课外诵读",
+  "type": "词",
+  "genre": "词·定风波（豪放）",
+  "title": "定风波（莫听穿林打叶声）",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "回首向来萧瑟处，归去，也无风雨也无晴。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-104",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课外诵读",
+  "type": "词",
+  "genre": "词·临江仙（婉约）",
+  "title": "临江仙·夜登小阁忆洛中旧游",
+  "author": "陈与义",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "古今多少事，渔唱起三更。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-105",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课外诵读",
+  "type": "词",
+  "genre": "词·太常引（豪放）",
+  "title": "太常引·建康中秋夜为吕叔潜赋",
+  "author": "辛弃疾",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "斫去桂婆娑，人道是，清光更多。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-106",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课外诵读",
+  "type": "词",
+  "genre": "词·浣溪沙（婉约）",
+  "title": "浣溪沙（身向榆关那畔行）",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "from": "",
+  "quotes": [
+   "一抹晚烟荒戍垒，半竿斜日旧关城。"
+  ],
+  "note": "首句教材作「身向榆关那畔行」（百科「身向云山」为异文）；名句原误配《长相思·山一程》句已改本篇句"
+ },
+ {
+  "id": "cz-107",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "乐府叙事诗",
+  "title": "十五从军征",
+  "author": "佚名",
+  "dynasty": "汉",
+  "from": "《乐府诗集》",
+  "quotes": [
+   "十五从军征，八十始得归。"
+  ],
+  "note": "2026秋新九上已收录本篇；汉乐府，作者佚名"
+ },
+ {
+  "id": "cz-108",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "七言歌行",
+  "title": "白雪歌送武判官归京",
+  "author": "岑参",
+  "dynasty": "唐",
+  "from": "",
+  "quotes": [
+   "忽如一夜春风来，千树万树梨花开。"
+  ],
+  "note": "2026秋新九上已收录本篇"
+ },
+ {
+  "id": "cz-109",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课外诵读",
+  "type": "词",
+  "genre": "词·南乡子（豪放）",
+  "title": "南乡子·登京口北固亭有怀",
+  "author": "辛弃疾",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "千古兴亡多少事？悠悠。不尽长江滚滚流。"
+  ],
+  "note": "2026秋新九上已收录本篇"
+ },
+ {
+  "id": "cz-110",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课文",
+  "type": "诗",
+  "genre": "七言律诗",
+  "title": "过零丁洋",
+  "author": "文天祥",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "人生自古谁无死？留取丹心照汗青。"
+  ],
+  "note": "2026秋新九上已收录本篇"
+ },
+ {
+  "id": "cz-111",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课外诵读",
+  "type": "曲",
+  "genre": "散曲小令",
+  "title": "山坡羊·潼关怀古",
+  "author": "张养浩",
+  "dynasty": "元",
+  "from": "",
+  "quotes": [
+   "兴，百姓苦；亡，百姓苦。"
+  ],
+  "note": "2026秋新九上已收录本篇"
+ },
+ {
+  "id": "cz-112",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "南安军",
+  "author": "文天祥",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "饿死真吾志，梦中行采薇。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-113",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课外诵读",
+  "type": "诗",
+  "genre": "五言律诗",
+  "title": "别云间",
+  "author": "夏完淳",
+  "dynasty": "明",
+  "from": "",
+  "quotes": [
+   "毅魄归来日，灵旗空际看。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-114",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课外诵读",
+  "type": "曲",
+  "genre": "散曲小令",
+  "title": "山坡羊·骊山怀古",
+  "author": "张养浩",
+  "dynasty": "元",
+  "from": "",
+  "quotes": [
+   "赢，都变做了土；输，都变做了土。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-115",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课外诵读",
+  "type": "曲",
+  "genre": "散曲小令",
+  "title": "朝天子·咏喇叭",
+  "author": "王磐",
+  "dynasty": "明",
+  "from": "",
+  "quotes": [
+   "只吹的水尽鹅飞罢！"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-116",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "诸子散文",
+  "title": "鱼我所欲也",
+  "author": "孟子及其弟子",
+  "dynasty": "先秦",
+  "from": "《孟子·告子上》",
+  "quotes": [
+   "二者不可得兼，舍生而取义者也。"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cz-117",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "史传",
+  "title": "唐雎不辱使命",
+  "author": "刘向",
+  "dynasty": "先秦（西汉辑）",
+  "from": "《战国策·魏策四》",
+  "quotes": [
+   "若士必怒，伏尸二人，流血五步，天下缟素。"
+  ],
+  "note": "《战国策》记先秦史事，西汉刘向整理成书"
+ },
+ {
+  "id": "cz-118",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "序（赠序）",
+  "title": "送东阳马生序（节选）",
+  "author": "宋濂",
+  "dynasty": "明",
+  "from": "《宋学士文集》",
+  "quotes": [
+   "余则缊袍敝衣处其间，略无慕艳意。"
+  ],
+  "note": "节选；“序”为赠序文体"
+ },
+ {
+  "id": "cz-119",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "史传",
+  "title": "曹刿论战",
+  "author": "左丘明",
+  "dynasty": "先秦",
+  "from": "《左传·庄公十年》",
+  "quotes": [
+   "一鼓作气，再而衰，三而竭。"
+  ],
+  "note": "2026秋新九上已收录本篇；《左传》为编年体史书"
+ },
+ {
+  "id": "cz-120",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "史传",
+  "title": "邹忌讽齐王纳谏",
+  "author": "刘向",
+  "dynasty": "先秦（西汉辑）",
+  "from": "《战国策·齐策一》",
+  "quotes": [
+   "吾妻之美我者，私我也。"
+  ],
+  "note": "2026秋新九上已收录本篇；《战国策》记先秦史事，西汉刘向整理成书"
+ },
+ {
+  "id": "cz-121",
+  "stage": "初中",
+  "grade": "九年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "表",
+  "title": "出师表",
+  "author": "诸葛亮",
+  "dynasty": "三国蜀",
+  "from": "《诸葛亮集·出师表》",
+  "quotes": [
+   "受任于败军之际，奉命于危难之间。"
+  ],
+  "note": "2026秋新九上已收录本篇"
+ },
+ {
+  "id": "cz-122",
+  "stage": "初中",
+  "grade": "七年级下册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "笔记散文",
+  "title": "活板",
+  "author": "沈括",
+  "dynasty": "北宋",
+  "from": "《梦溪笔谈·技艺》",
+  "quotes": [
+   "若印数十百千本，则极为神速。"
+  ],
+  "note": "2025春修订新增课文；记毕昇活字印刷术"
+ },
+ {
+  "id": "cz-123",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课外诵读",
+  "type": "词",
+  "genre": "词·采桑子",
+  "title": "采桑子（轻舟短棹西湖好）",
+  "author": "欧阳修",
+  "dynasty": "北宋",
+  "from": "",
+  "quotes": [
+   "无风水面琉璃滑，不觉船移。"
+  ],
+  "note": "统编八上课外古诗词诵读"
+ },
+ {
+  "id": "cz-124",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课外诵读",
+  "type": "词",
+  "genre": "词·相见欢",
+  "title": "相见欢（金陵城上西楼）",
+  "author": "朱敦儒",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "中原乱，簪缨散，几时收？"
+  ],
+  "note": "统编八上课外古诗词诵读；与课标拓展李煜《相见欢（无言独上西楼）》同牌不同篇"
+ },
+ {
+  "id": "cz-125",
+  "stage": "初中",
+  "grade": "八年级上册",
+  "source_type": "课外诵读",
+  "type": "词",
+  "genre": "词·如梦令",
+  "title": "如梦令（常记溪亭日暮）",
+  "author": "李清照",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "知否，知否？应是绿肥红瘦。"
+  ],
+  "note": "统编八上课外古诗词诵读"
+ },
+ {
+  "id": "cz-126",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课文",
+  "type": "文言文",
+  "genre": "史传散文",
+  "title": "陈涉世家（节选）",
+  "author": "司马迁",
+  "dynasty": "西汉",
+  "from": "《史记·陈涉世家》",
+  "quotes": [
+   "燕雀安知鸿鹄之志哉！",
+   "王侯将相宁有种乎！"
+  ],
+  "note": "2026秋修订自九下移入九上；现行九下旧版亦收录"
+ },
+ {
+  "id": "cz-127",
+  "stage": "初中",
+  "grade": "九年级上册",
+  "source_type": "课外诵读",
+  "type": "词",
+  "genre": "词·浣溪沙",
+  "title": "浣溪沙（漠漠轻寒）",
+  "author": "秦观",
+  "dynasty": "宋",
+  "from": "",
+  "quotes": [
+   "自在飞花轻似梦，无边丝雨细如愁。"
+  ],
+  "note": "2026秋修订替换《行香子（树绕村庄）》进入九上课外诵读"
+ },
+ {
+  "id": "cz-128",
+  "stage": "初中",
+  "grade": "课标拓展",
+  "source_type": "拓展",
+  "type": "词",
+  "genre": "词·相见欢",
+  "title": "相见欢（无言独上西楼）",
+  "author": "李煜",
+  "dynasty": "南唐",
+  "from": "",
+  "quotes": [
+   "剪不断，理还乱，是离愁。别是一般滋味在心头。"
+  ],
+  "note": "2022版课标7-9年级推荐60篇之一；统编教材未收"
+ }
+]
