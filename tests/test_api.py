@@ -19,10 +19,15 @@ if str(ROOT) not in sys.path:
 from fastapi.testclient import TestClient  # noqa: E402
 
 
+TEST_USER, TEST_PASS = "t_student", "t_pass_9"
+
+
 @pytest.fixture()
 def data_dir(tmp_path, monkeypatch):
     d = tmp_path / "data"
     monkeypatch.setenv("GUWEN_DATA_DIR", str(d))
+    monkeypatch.setenv("GUWEN_SEED_USER", TEST_USER)
+    monkeypatch.setenv("GUWEN_SEED_PASS", TEST_PASS)
     import auth
     auth._reset_secret_cache()
     return d
@@ -36,7 +41,7 @@ def client(data_dir):
 
 
 def _login(client):
-    r = client.post("/api/login", json={"user": "__REDACTED__", "password": "__REDACTED__"})
+    r = client.post("/api/login", json={"user": TEST_USER, "password": TEST_PASS})
     assert r.status_code == 200
     return r.json()
 
@@ -49,13 +54,13 @@ def _auth(token):
 
 def test_login_success(client):
     body = _login(client)
-    assert body["user"] == "__REDACTED__"
+    assert body["user"] == TEST_USER
     assert body["role"] == "student"
     assert body["token"]
 
 
 def test_login_wrong_password(client):
-    r = client.post("/api/login", json={"user": "__REDACTED__", "password": "wrong"})
+    r = client.post("/api/login", json={"user": TEST_USER, "password": "wrong"})
     assert r.status_code == 401
     assert r.json() == {"detail": "用户名或密码错误"}
 
@@ -83,7 +88,7 @@ def test_me_ok(client):
     r = client.get("/api/me", headers=_auth(token))
     assert r.status_code == 200
     body = r.json()
-    assert body["user"] == "__REDACTED__"
+    assert body["user"] == TEST_USER
     assert body["role"] == "student"
     assert body["exp"] > 0
 
@@ -160,7 +165,7 @@ def test_log_written_jsonl(client, data_dir):
     lines = files[0].read_text(encoding="utf-8").strip().splitlines()
     assert len(lines) == 2
     recs = [json.loads(x) for x in lines]  # 每行都是合法 JSON
-    assert recs[0]["user"] == "__REDACTED__"
+    assert recs[0]["user"] == TEST_USER
     assert recs[0]["client_t"] == 1731628800000
     assert recs[0]["type"] == "answer"
     assert recs[0]["wid"] == "w1"
@@ -215,10 +220,11 @@ def test_works_from_json_array(client, tmp_path, monkeypatch):
 
 def test_login_invisible_chars_stripped(client):
     """自动填充混入零宽字符/首尾空白时应清洗后成功（Safari/自动填充兼容）"""
-    r = client.post("/api/login", json={"user": " __REDACTED__ ", "password": "d\u200bgbym"})
+    dirty_pass = TEST_PASS[0] + "\u200b" + TEST_PASS[1:]  # 首字符后插入零宽字符
+    r = client.post("/api/login", json={"user": " " + TEST_USER + " ", "password": dirty_pass})
     assert r.status_code == 200
     body = r.json()
-    assert body["user"] == "__REDACTED__"
+    assert body["user"] == TEST_USER
     # 用清洗后凭据拿的 token 能正常访问
     r2 = client.get("/api/me", headers={"Authorization": "Bearer " + body["token"]})
-    assert r2.status_code == 200 and r2.json()["user"] == "__REDACTED__"
+    assert r2.status_code == 200 and r2.json()["user"] == TEST_USER

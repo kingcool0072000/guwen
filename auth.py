@@ -7,8 +7,9 @@
 - token 为 ``base64url(payload).base64url(hmac)``，payload 含 user/role/exp；
   30 天 TTL；无状态校验，不落库
 
-默认账号（家庭本地工具，首次启动播种，可删 users.json 重置后改密码）：
-- __REDACTED__ / __REDACTED__（学生）
+默认账号：不内置任何明文凭据。首次启动若无 users.json，则从环境变量
+``GUWEN_SEED_USER`` / ``GUWEN_SEED_PASS``（默认 student/student）播种一个账号；
+生产部署直接把服务器上已有的 users.json 放进数据目录即可，完全绕过播种。
 
 数据目录固定为项目内 ``data/``，环境变量 ``GUWEN_DATA_DIR`` 可覆盖（测试用）；
 每次调用动态解析，进程内切换环境变量立即生效。
@@ -24,9 +25,14 @@ import secrets
 import time
 from pathlib import Path
 
-DEFAULT_USERS = {
-    "__REDACTED__": ("__REDACTED__", "student"),
-}
+def _seed_users() -> dict:
+    """从环境变量构造种子账号（仓库不落任何真实凭据）。"""
+    user = os.environ.get("GUWEN_SEED_USER", "student")
+    pwd = os.environ.get("GUWEN_SEED_PASS", "student")
+    return {user: (pwd, "student")}
+
+
+DEFAULT_USERS = None  # 兼容旧引用；实际播种走 _seed_users()
 TOKEN_TTL = 30 * 24 * 3600  # 30 天
 
 
@@ -63,7 +69,7 @@ class UserStore:
             except Exception:
                 pass  # 损坏则重建（重播种默认账号）
         users = {}
-        for name, (pwd, role) in DEFAULT_USERS.items():
+        for name, (pwd, role) in _seed_users().items():
             salt = secrets.token_hex(8)
             users[name] = {"salt": salt, "hash": _pbkdf2(pwd, salt), "role": role}
         self._users = users
