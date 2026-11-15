@@ -698,11 +698,11 @@ body.no-tab #tabbar{display:none}
       <p class="lg-sub">账号登录 · 学习进度云端同步</p>
       <div class="login-field">
         <label for="login-user">用户名</label>
-        <input id="login-user" name="username" autocomplete="username" placeholder="用户名">
+        <input id="login-user" name="username" autocomplete="username" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="用户名">
       </div>
       <div class="login-field">
         <label for="login-pass">密码</label>
-        <input id="login-pass" name="password" type="password" autocomplete="current-password" placeholder="密码">
+        <input id="login-pass" name="password" type="password" autocomplete="new-password" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="密码">
       </div>
       <button class="btn-main" id="btn-login" type="submit">登录</button>
       <p id="login-msg"></p>
@@ -1878,14 +1878,19 @@ function hideLogin(){
   document.body.classList.remove('prelogin');
 }
 function doLogin(){
-  var u = $('#login-user').value.trim(), p = $('#login-pass').value;
+  /* 清洗不可见字符/空白：自动填充与粘贴最常见的坑 */
+  var strip = function(x){ return String(x||'').replace(/[\u200b\u200c\u200d\ufeff\u00a0\u3000]/g,'').trim(); };
+  var u = strip($('#login-user').value), p = strip($('#login-pass').value);
   if(!u || !p){ $('#login-msg').textContent = '请输入用户名和密码'; return; }
   $('#login-msg').textContent = '';
   var btn = $('#btn-login');
   btn.disabled = true; btn.textContent = '登录中…';
+  var ctl = ('AbortController' in window) ? new AbortController() : null;
+  var timer = ctl ? setTimeout(function(){ ctl.abort(); }, 8000) : null;
   fetch('api/login', {
     method:'POST', headers:{ 'Content-Type':'application/json' },
-    body: JSON.stringify({ user:u, password:p })
+    body: JSON.stringify({ user:u, password:p }),
+    signal: ctl ? ctl.signal : undefined
   }).then(function(res){
     if(res.status===401){ var e=new Error('badcred'); e.wrong=true; throw e; }
     if(!res.ok){ var e2=new Error('http_'+res.status); e2.http=true; throw e2; }
@@ -1905,6 +1910,8 @@ function doLogin(){
       toast('用户名或密码错误');
     }else if(err && err.http){
       $('#login-msg').textContent = '服务暂不可用，请稍后再试';
+    }else if(err && err.name==='AbortError'){
+      $('#login-msg').textContent = '连接超时，请重试';
     }else{
       /* 网络不通：静默降级为纯本地模式（离线可用） */
       Auth.clear();
@@ -1914,7 +1921,8 @@ function doLogin(){
       setSyncStatus('local');
       toast('当前无法连接服务，已进入本地模式');
     }
-  }).then(function(){
+  }).catch(function(){ /* 二次兜底 */ }).then(function(){
+    if(timer) clearTimeout(timer);
     btn.disabled = false; btn.textContent = '登录';
   });
 }

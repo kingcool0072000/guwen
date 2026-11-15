@@ -211,3 +211,14 @@ def test_works_from_json_array(client, tmp_path, monkeypatch):
     body = r.json()
     assert body["count"] == 2
     assert body["works"][0]["title"] == "静夜思"
+
+
+def test_login_invisible_chars_stripped(client):
+    """自动填充混入零宽字符/首尾空白时应清洗后成功（Safari/自动填充兼容）"""
+    r = client.post("/api/login", json={"user": " __REDACTED__ ", "password": "d\u200bgbym"})
+    assert r.status_code == 200
+    body = r.json()
+    assert body["user"] == "__REDACTED__"
+    # 用清洗后凭据拿的 token 能正常访问
+    r2 = client.get("/api/me", headers={"Authorization": "Bearer " + body["token"]})
+    assert r2.status_code == 200 and r2.json()["user"] == "__REDACTED__"

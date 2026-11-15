@@ -77,12 +77,28 @@ class LogBody(BaseModel):
     events: list[dict]
 
 
+def _clean_cred(s: str) -> str:
+    """登录凭据清洗：去首尾空白、内部空白与常见不可见字符（BOM/零宽）。
+    浏览器自动填充/粘贴常混入这些字符导致"看起来对但登不上"。"""
+    invis = "\u200b\u200c\u200d\ufeff\u00a0\u3000"
+    return "".join(ch for ch in (s or "") if ch not in invis).strip()
+
+
 @app.post("/api/login")
 def api_login(body: LoginBody):
-    role = _store.verify(body.user or "", body.password or "")
+    u = _clean_cred(body.user or "")
+    p = _clean_cred(body.password or "")
+    role = _store.verify(u, p)
     if not role:
+        import logging
+        raw_p = body.password or ""
+        logging.getLogger("guwen").warning(
+            "login failed: user=%r raw_len=%d clean_len=%d invis_stripped=%s ws_inside=%s",
+            body.user, len(raw_p), len(p),
+            len(raw_p) != len(p), any(c.isspace() for c in raw_p.strip()),
+        )
         raise HTTPException(status_code=401, detail="用户名或密码错误")
-    return {"token": auth.make_token(body.user, role), "user": body.user, "role": role}
+    return {"token": auth.make_token(u, role), "user": u, "role": role}
 
 
 @app.get("/api/me")
